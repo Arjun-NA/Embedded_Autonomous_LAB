@@ -1,7 +1,5 @@
-# Embedded Autonomous LAB Spring 2021
-
-This Document is for easier reference to software and hardware required for Embedded Autonomous Lab Spring 2021.
----
+# Embedded Autonomous LAB Spring 2021  
+This Document is for quick reference to Software and Hardware requirements to Embedded Autonomous Systems LAB 2021
 ## Hardware Requirements  
 ###    Section 1: With S32K144EVB
 * S32K144EVB
