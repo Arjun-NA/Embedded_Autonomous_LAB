@@ -1,14 +1,14 @@
 # Embedded Autonomous LAB Spring 2021
 
-## This Document is for easier reference to softwares and hardwraes required for Embedded Autonomous Lab Spring 2021.
+## This Document is for easier reference to software and hardware required for Embedded Autonomous Lab Spring 2021.
 
-### Boards Requied  
+### Hardware Requirements  
 ####    Section 1: With S32K144EVB
 * S32K144EVB
 * FRDM-KV31F
 * 24 Volt Linix Motor Motor Linix 
 Three-phase low voltage power Freedom shield (FRDM-MC-LVBLDC) with
-included Linix motor 45ZWN24-40.
+included Linux motor 45ZWN24-40.
 * FRDM MC LVPMSM: Shield
 * 12v and 24v adapters
 * USB micro-B Cables  
