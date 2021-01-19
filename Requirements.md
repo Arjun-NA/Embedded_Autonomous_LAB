@@ -1,9 +1,9 @@
 # Embedded Autonomous LAB Spring 2021
 
-## This Document is for easier reference to software and hardware required for Embedded Autonomous Lab Spring 2021.
+This Document is for easier reference to software and hardware required for Embedded Autonomous Lab Spring 2021.
 ---
-### Hardware Requirements  
-####    Section 1: With S32K144EVB
+## Hardware Requirements  
+###    Section 1: With S32K144EVB
 * S32K144EVB
 * FRDM-KV31F
 * 24 Volt Linix Motor Motor Linix 
@@ -19,8 +19,8 @@ included Linux motor 45ZWN24-40.
 * USB micro-B Cables  
 
 ---
-### Softwares Required
-#### Section 1: With S32K144EVB
+## Softwares Required
+### Section 1: With S32K144EVB
 *   S32DS
 *   MBDT
 *   NXP FreeMaster TOOL
