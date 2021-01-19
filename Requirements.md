@@ -2,8 +2,8 @@
 
 ## This Document is for easier reference to softwares and hardwraes required for Embedded Autonomous Lab Spring 2021.
 
-###Boards Requied 
-####Section 1: With S32K144EVB
+### Boards Requied  
+####    Section 1: With S32K144EVB
 * S32K144EVB
 * FRDM-KV31F
 * 24 Volt Linix Motor Motor Linix 
@@ -20,7 +20,7 @@ included Linix motor 45ZWN24-40.
 
 
 ### Softwares Required
-####Section 1: With S32K144EVB
+#### Section 1: With S32K144EVB
 *   S32DS
 *   MBDT
 *   NXP FreeMaster TOOL
