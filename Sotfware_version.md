@@ -11,5 +11,5 @@ SL |Software  |  Version | Download Link, if Available | Guide to Install
 6| MCRSP_PMSM|1.2.0| <a id="raw-url" href="https://raw.githubusercontent.com/Arjun-NA/Embedded_Autonomous_LAB/main/Support/ECE595_Autonomous_Lab2_Software.zip">Lab_2_Software.zip</a> | -|
 7| PEMicro Driver| - |<a id="raw-url" href="https://raw.githubusercontent.com/Arjun-NA/Embedded_Autonomous_LAB/main/Support/ECE595_Autonomous_Lab2_Software.zip">Lab_2_Software.zip</a> | - |
 8| Kinetis Design Studio| 3.2| https://www.nxp.com/design/designs/design-studio-integrated-development-environment-ide:KDS_IDE?tid=vanKDS | -|
-9| Kinetis Motor Suite| 1.1.0 | https://indiana-my.sharepoint.com/:u:/g/personal/arjuna_iu_edu/Ef-ngN0WG2tGhBKjoCSH3I4BeNO9GTNPkOQD0MyviRGVYA?e=PWAdL7 | - |
-10| Kinetis SDK |1.3.0 | https://indiana-my.sharepoint.com/:u:/g/personal/arjuna_iu_edu/EfIAb_zPQn9Mur9RcvYuJ2MBlrmPQKpF8xrixJtFPoVT9w?e=F3sf4v|-|
+9| Kinetis Motor Suite| 1.1.0 | <a id="raw-url" href="https://indiana-my.sharepoint.com/:u:/g/personal/arjuna_iu_edu/Ef-ngN0WG2tGhBKjoCSH3I4ByKKAWAIgrCfUAw20LEdBcQ?e=9aRuHs">Link</a> | - |
+10| Kinetis SDK |1.3.0 | <a id="raw-url" href="https://indiana-my.sharepoint.com/:u:/g/personal/arjuna_iu_edu/EfIAb_zPQn9Mur9RcvYuJ2MBlrmPQKpF8xrixJtFPoVT9w?e=F3sf4v"> Link </a> |-|
