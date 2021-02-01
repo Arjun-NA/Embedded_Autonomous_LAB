@@ -1,7 +1,7 @@
 # Embedded Autonomous LAB Spring 2021  
 This Document is for quick reference to Software and Hardware requirements to Embedded Autonomous Systems LAB 2021
 ## Hardware Requirements  
-###    Section 1: With S32K144EVB
+###    Section 1: With S32K144EVB and KV31F
 * S32K144EVB
 * FRDM-KV31F
 * FRDM-MC-LVBLDC: shield 12 V
