@@ -1,0 +1,59 @@
+----------------------------------------------------------------
+NXP Software Content Register
+
+Package:                   NXP Model Based Design Toolbox for S32K
+
+Outgoing License:          LA_OPT_NXP_Software_License
+
+Type of content:           source, binaries
+
+Version:                   4.2.0
+----------------------------------------------------------------
+
+NXP, S32SDK_S32K1xx_RTM_4.0.0
+Website: http://www.nxp.com/webapp/swlicensing/sso/downloadSoftware.sp?catid=SW32K14-SDK1D
+License: NXP LA_OPT_NXP_Software_License v13
+Distribution Type: Source
+Location: src/S32_Platform_SDK
+
+NXP, S32K14X_AMMCLIB_RTM_1_1_21_BIN
+Website: https://www.nxp.com/webapp/swlicensing/sso/downloadSoftware.sp?catid=SW32K14-MMCL1D
+License: NXP Automotive Software License Agreement v1.1
+Distribution Type: Binary
+Location: src/mbdtbx_s32k14x/AMMCLIB_s32k14x
+
+NXP, S32K11X_AMMCLIB_RTM_1_1_21_BIN
+Website: http://www.nxp.com/webapp/swlicensing/sso/downloadSoftware.sp?catid=SW32K11-MMCL1D
+License: NXP Automotive Software License Agreement v1.1
+Distribution Type: Binary
+Location: src/mbdtbx_s32k11x/AMMCLIB_s32k11x
+
+GCC
+Website: https://github.com/gcc-mirror/gcc
+License: GNU General Public License v3.0 or later
+Distribution Type: Binary
+Location: src/tools/gcc-6.3-arm32-eabi
+
+NXP, RAPPID BootLoader
+Website: https://www.nxp.com/webapp/sps/download/license.jsp?colCode=RAPPID_BOOTLOADER_UTILITY
+License: LA_OPT_TOOL Software Tools v17
+Distribution Type: Sources, Binary
+Location: src/tools/BootLoader
+
+NXP GD3000-MC33937-SDP, 1.0
+Website: https://www.nxp.com/webapp/Download?colCode=GD3000-MC33937-SDP&appType=license
+License: LA_OPT_BASE_LICENSE v34
+Distribution Type: Sources
+Location: src/mbdtbx_s32k/src/TPP_SDK_SW_Driver
+
+NXP EMBEDDED-SW-BCC-MC33771C, 1.0
+Website: https://www.nxp.com/webapp/Download?colCode=EMBEDDED-SW-BCC-MC33771C&appType=license
+License: LA_OPT_BASE_LICENSE v34
+Distribution Type: Sources
+Location: src/mbdtbx_s32k/src/BCC_SDK_SW
+
+NXP FMASTERSW30, 3.x
+Website: https://www.nxp.com/webapp/sps/download/preDownload.jsp?render=true
+License: LA_OPT_TOOL
+Distribution Type: Sources
+Location: src/mbdtbx_s32k/src/FreeMaster_files

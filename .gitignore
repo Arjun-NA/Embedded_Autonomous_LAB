@@ -1,0 +1,8 @@
+# ignore workspaces
+KDS_Workspace/
+KMSProjects/
+MATLAB/
+S32DS_Workspace/
+license.dat
+license.lic
+
