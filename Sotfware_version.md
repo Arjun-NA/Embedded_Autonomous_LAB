@@ -1,5 +1,5 @@
 # Software and their Versions Used for the LAB 
-
+Please create your Mathworks and NXP account. Mathworks account using your iu email id as it will be required.
 
 SL |Software  |  Version | Link Available |
 ---|--------|----------|---------------|
