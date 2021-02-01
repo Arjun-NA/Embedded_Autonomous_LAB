@@ -4,10 +4,9 @@ This Document is for quick reference to Software and Hardware requirements to Em
 ###    Section 1: With S32K144EVB
 * S32K144EVB
 * FRDM-KV31F
-* 24 Volt Linix Motor Motor Linix 
-Three-phase low voltage power Freedom shield (FRDM-MC-LVBLDC) with
-included Linux motor 45ZWN24-40.
-* FRDM MC LVPMSM: Shield
+* FRDM-MC-LVBLDC: shield 12 V
+* FRDM MC LVPMSM: Shield 24 V 
+* Linix motor 
 * 12v and 24v adapters
 * USB micro-B Cables  
 ### Section-2: With S32V234
