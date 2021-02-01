@@ -9,4 +9,5 @@ SL |Software  |  Version | Link Available |
 4| S32 Design Studio| 2.2 | https://www.nxp.com/webapp/swlicensing/sso/downloadSoftware.sp?catid=S32DS-IDE-ARM-V2-X|
 5| MCRSP_BLDC | 1.3.0| [LAB_2_Software](Support/ECE595_Autonomous_Lab2_Software.zip)
 6|MCRSP_PMSM|1.2.0| [LAB_2_Software](Support/ECE595_Autonomous_Lab2_Software.zip)
-7| PEMicro Driver| - | [LAB_2_Software](Support/ECE595_Autonomous_Lab2_Software.zip)
+7| PEMicro Driver| - |<a id="raw-url" href="https://raw.githubusercontent.com/Arjun-NA/Embedded_Autonomous_LAB/main/Support/ECE595_Autonomous_Lab2_Software.zip">Lab_2_Software.zip</a>
+
