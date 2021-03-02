@@ -1,0 +1,5 @@
+This demo shows how to retrieve 3 different image formats in parallel using the ISP. 
+3 DDR buffers are getting filled with the camera life image in RGB888, YUV422, and Greyscale8. 
+
+Requirements: Sony imx224 camera attached to Mipi CSI0 interface. 
+S32V234 board with Linux.

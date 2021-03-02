@@ -1,0 +1,40 @@
+01:24:30 **** Incremental Build of configuration A53 for project isp_sonyimx224_default ****
+make -j12 all 
+/usr/bin/make --no-print-directory pre-build
+rm -f ../A53_gen/src/sequencer_srec.c; /usr/bin/make -f ../Project_Settings/Scripts/seq.mk  TD="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../Cross_Tools/gcc-6.3-arm32-eabi"  VD="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk"
+dos2unix: converting file ../SEQ/sequencer.run to Unix format...
+Generating: sequencer_srec.c
+ 
+/usr/bin/make --no-print-directory main-build
+Building file: ../A53_gen/src/kmem.c
+Building file: ../A53_gen/src/sequencer_srec.c
+Building file: ../A53_gen/src/sony_dualexp.c
+Invoking: Standard S32DS C Compiler
+Invoking: Standard S32DS C Compiler
+aarch64-linux-gnu-gcc "@A53_gen/src/kmem.args" -MMD -MP -MF"A53_gen/src/sequencer_srec.d" -MT"A53_gen/src/sequencer_srec.o" -o "A53_gen/src/sequencer_srec.o" "../A53_gen/src/sequencer_srec.c"
+Invoking: Standard S32DS C Compiler
+aarch64-linux-gnu-gcc "@A53_gen/src/kmem.args" -MMD -MP -MF"A53_gen/src/kmem.d" -MT"A53_gen/src/kmem.o" -o "A53_gen/src/kmem.o" "../A53_gen/src/kmem.c"
+aarch64-linux-gnu-gcc "@A53_gen/src/kmem.args" -MMD -MP -MF"A53_gen/src/sony_dualexp.d" -MT"A53_gen/src/sony_dualexp.o" -o "A53_gen/src/sony_dualexp.o" "../A53_gen/src/sony_dualexp.c"
+../A53_gen/src/sequencer_srec.c:3:1: warning: string length '80800' is greater than the length '4095' ISO C99 compilers are required to support [-Woverlength-strings]
+ char sequencer_srec[] = {\
+ ^~~~
+Finished building: ../A53_gen/src/kmem.c
+Finished building: ../A53_gen/src/sequencer_srec.c
+ 
+ 
+Finished building: ../A53_gen/src/sony_dualexp.c
+ 
+Building target: s32ds_isp_sonyimx224_default.elf
+Invoking: Standard S32DS C++ Linker
+aarch64-linux-gnu-g++ -o "s32ds_isp_sonyimx224_default.elf" "@s32ds_isp_sonyimx224_default.args"  
+Finished building target: s32ds_isp_sonyimx224_default.elf
+ 
+Invoking: Standard S32DS Print Size
+aarch64-linux-gnu-size --format=berkeley s32ds_isp_sonyimx224_default.elf
+   text	   data	    bss	    dec	    hex	filename
+ 334232	 135792	   1376	 471400	  73168	s32ds_isp_sonyimx224_default.elf
+Finished building: s32ds_isp_sonyimx224_default.siz
+ 
+
+01:24:32 Build Finished (took 1s.724ms)
+

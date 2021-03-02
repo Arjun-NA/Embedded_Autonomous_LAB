@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.nxp.s32ds.mdt.vpt.isp.core.ispEmit">
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.emit_host" value="false"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.graph_path" value="/isp_sonyimx224_rgb_yuv_gs8_n_graph/model/rgb_yuv_gs8.isp"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.ignoreValidationReult" value="true"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.output_path" value="${workspace_loc:isp_sonyimx224_rgb_yuv_gs8_n}"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.source_folder" value="A53_gen"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.static_source_folder" value="SEQ_gen"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.isp.core.validate" value="false"/>
+</launchConfiguration>

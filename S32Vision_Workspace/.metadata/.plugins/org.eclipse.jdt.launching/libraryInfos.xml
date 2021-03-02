@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre" version="1.8.0_162">
+<bootpath>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\resources.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\rt.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jsse.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jce.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\charsets.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jfr.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse" version="1.8.0_162">
+<bootpath>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\resources.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\rt.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jsse.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jce.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\charsets.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\jfr.jar"/>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

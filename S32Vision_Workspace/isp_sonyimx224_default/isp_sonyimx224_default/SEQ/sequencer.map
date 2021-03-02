@@ -1,0 +1,291 @@
+Archive member included to satisfy reference by file (symbol)
+
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o)
+                              (_reset)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o) (_done)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o) (main)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o) (staticSequenceInit)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(core_regs-s.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o) (getPRIMASK)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o) (gpOTHR)
+
+Allocating common symbols
+Common symbol       size              file
+
+gpIntDevCfg         0x50              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m0_0_intvec      0x00000000         0x000000c0
+sram_RAM         0x00000100         0x0000af00
+stack            0x0000b000         0x00001000
+graph            0x0000c000         0x00004000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../SEQ/src/static_sony_dualexp.o
+LOAD F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a
+
+.vectable       0x00000000       0x40
+                0x00000000                __CM0_0_VECTOR_TABLE = .
+ *(.vectable)
+ .vectable      0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+                0x00000000                vecTab
+
+.init
+ *(.init)
+
+.text           0x00000100     0x6a24
+ *(.text*)
+ .text          0x00000100       0x6c ../SEQ/src/static_sony_dualexp.o
+                0x00000100                StaticSequencing
+ .text          0x0000016c       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o)
+                0x0000016c                _reset
+                0x0000019c                _exception
+ .text          0x000001a8       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+                0x000001a8                _done
+                0x000001ac                _comp_init
+ .text          0x000001d0     0x5138 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                0x000022d0                initIPUpara
+                0x00002370                updateProdStat
+                0x000023ec                updateConsRdy
+                0x000036dc                processEvent
+                0x000041c8                startDev
+                0x0000466c                processMessage
+                0x00004cc0                checkUpdatedDev
+                0x00005018                checkStartDev
+                0x00005084                checkIpuFree
+                0x00005098                numFreeFdmaQueue
+                0x000050b0                dbgPrintNum
+                0x00005224                exceptionHL
+                0x000052dc                fatalError
+ .text.startup  0x00005308       0x68 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                0x00005308                main
+ .text          0x00005370      0x538 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+                0x0000537c                staticSequenceInit
+                0x00005394                staticSequence
+                0x00005518                staticSequenceWaitFinish
+                0x0000559c                staticSequenceEventIPU
+                0x000055e0                staticSequenceJpeg4
+                0x00005844                initIPUnode
+                0x00005880                initFDMAnode
+ .text          0x000058a8       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(core_regs-s.o)
+                0x000058a8                getSP
+                0x000058ac                getIPSR
+                0x000058b2                getPRIMASK
+                0x000058ba                getCONTROL
+ .text          0x000058c4     0x1260 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                0x000058c4                SEQ_IdmaHndl
+                0x000058c8                SEQ_EngineHndl
+                0x00005bd0                SEQ_HostEvntDoneHndl
+                0x00005be4                SEQ_HostMsgHndl
+                0x00005c00                SEQ_HostOutAckHndl
+                0x00005c34                SEQ_FdmaErrHndl
+                0x00005c58                SEQ_ErrHndl
+                0x00005c84                SEQ_DfltHndl
+                0x00005cb0                SEQ_ExecuteEvents
+                0x00006808                SEQ_EvntRegIntDev
+                0x0000696c                SEQ_EvntInit
+                0x00006a68                procOthrEvent
+                0x00006ae0                procIpuEvent
+
+.glue_7         0x00006b24        0x0
+ .glue_7        0x00006b24        0x0 linker stubs
+
+.glue_7t        0x00006b24        0x0
+ .glue_7t       0x00006b24        0x0 linker stubs
+
+.vfp11_veneer   0x00006b24        0x0
+ .vfp11_veneer  0x00006b24        0x0 linker stubs
+
+.v4_bx          0x00006b24        0x0
+ .v4_bx         0x00006b24        0x0 linker stubs
+
+.iplt           0x00006b24        0x0
+ .iplt          0x00006b24        0x0 ../SEQ/src/static_sony_dualexp.o
+
+.rodata         0x00006b24      0x340
+ *(.rodata*)
+ .rodata        0x00006b24       0xac F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                0x00006bc4                gcIntDmaAddr
+                0x00006bc8                gcClkCtrlAddr
+                0x00006bcc                gcEvntCtrlAddr
+ .rodata.str1.4
+                0x00006bd0      0x13e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ *fill*         0x00006d0e        0x2 
+ .rodata        0x00006d10       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+ .rodata.str1.4
+                0x00006dc0       0xa4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                                 0xb3 (size before relaxing)
+
+.rel.dyn        0x00006e64        0x0
+ .rel.iplt      0x00006e64        0x0 ../SEQ/src/static_sony_dualexp.o
+
+.sdabase
+ *(.sdabase*)
+
+.sdata
+ *(.sdata*)
+
+.sdata2
+ *(.sdata2*)
+
+.sbss
+ *(.sbss*)
+
+.data           0x00006e70        0x8
+ *(.data*)
+ .data          0x00006e70        0x0 ../SEQ/src/static_sony_dualexp.o
+ .data          0x00006e70        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o)
+ .data          0x00006e70        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .data          0x00006e70        0x8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                0x00006e70                gOutMsgFree
+ .data          0x00006e78        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .data          0x00006e78        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(core_regs-s.o)
+ .data          0x00006e78        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.igot.plt       0x00006e78        0x0
+ .igot.plt      0x00006e78        0x0 ../SEQ/src/static_sony_dualexp.o
+
+.bss            0x00006e80      0x82c
+                0x00006e80                __bss_start__ = .
+ *(.bss*)
+ .bss           0x00006e80        0x0 ../SEQ/src/static_sony_dualexp.o
+ .bss           0x00006e80        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o)
+ .bss           0x00006e80        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .bss           0x00006e80      0x568 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                0x00006e80                gpJPEGdecCons
+                0x00006ea0                gIPUSdone
+                0x00006ea4                gNumIpusRun
+                0x00006eb4                gIPUVdone
+                0x00006eb8                gNumIpuvRun
+                0x00006ec0                gNumFdmaRun
+                0x00006f08                gFDMAdone
+                0x00006f0c                gOTHRdone
+                0x00006f10                gpBuf
+                0x00006f14                gInputLines
+                0x00006f20                gpMIPI0
+                0x00006f24                gNumCamLines
+                0x00006f28                gpMIPI1
+                0x00006f2c                gpVIU0
+                0x00006f30                gpVIU1
+                0x00006f34                gpH264enc
+                0x00006f38                gpH264dec
+                0x00006f3c                gpJPEGdec
+                0x00006f44                gpDBG
+                0x00006f54                gNumH264EncRun
+                0x00006f5c                gpGraph
+                0x000073e4                gpcDBGend
+ .bss           0x000073e8      0x14c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+                0x000073e8                sStaticSeq
+ .bss           0x00007534        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(core_regs-s.o)
+ .bss           0x00007534      0x128 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                0x00007538                gpIPUS
+                0x00007578                gpIPUV
+                0x00007598                gIntDevCnt
+                0x0000759c                gpOTHR
+                0x0000765c                __bss_end__ = .
+ COMMON         0x0000765c       0x50 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                0x0000765c                gpIntDevCfg
+
+.stack          0x0000b000        0x0
+                0x0000b000                __CM0_0_STACK_BOTTOM = .
+
+.graph          0x0000c000        0x0
+                0x0000bffc                __CM0_0_STACK_ADDRESS = (. - 0x4)
+                0x0000c000                __graph_start = .
+OUTPUT(../SEQ/sequencer.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xe109
+ .debug_info    0x00000000      0xa86 ../SEQ/src/static_sony_dualexp.o
+ .debug_info    0x00000a86      0x965 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_info    0x000013eb     0x8c64 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_info    0x0000a04f     0x167d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_info    0x0000b6cc     0x2a3d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_abbrev   0x00000000     0x111a
+ .debug_abbrev  0x00000000      0x1fb ../SEQ/src/static_sony_dualexp.o
+ .debug_abbrev  0x000001fb      0x1f3 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_abbrev  0x000003ee      0x4f1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_abbrev  0x000008df      0x3b5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_abbrev  0x00000c94      0x486 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x20 ../SEQ/src/static_sony_dualexp.o
+ .debug_aranges
+                0x00000020       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_aranges
+                0x00000040       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_aranges
+                0x00000068       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_aranges
+                0x00000088       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_line     0x00000000     0x2a99
+ .debug_line    0x00000000      0x232 ../SEQ/src/static_sony_dualexp.o
+ .debug_line    0x00000232      0x1cc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_line    0x000003fe     0x1da7 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_line    0x000021a5      0x3a6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_line    0x0000254b      0x54e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_str      0x00000000     0x393c
+ .debug_str     0x00000000      0x69a ../SEQ/src/static_sony_dualexp.o
+                                0x6ec (size before relaxing)
+ .debug_str     0x0000069a       0xcd F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+                                0x666 (size before relaxing)
+ .debug_str     0x00000767     0x2f66 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+                               0x366c (size before relaxing)
+ .debug_str     0x000036cd      0x132 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+                                0xe42 (size before relaxing)
+ .debug_str     0x000037ff      0x13d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+                               0x1240 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e ../SEQ/src/static_sony_dualexp.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .comment       0x0000007e       0x7f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .comment       0x0000007e       0x7f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .comment       0x0000007e       0x7f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 ../SEQ/src/static_sony_dualexp.o
+ .ARM.attributes
+                0x00000031       0x23 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(crt0_start-s.o)
+ .ARM.attributes
+                0x00000054       0x31 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .ARM.attributes
+                0x00000085       0x31 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .ARM.attributes
+                0x000000b6       0x31 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .ARM.attributes
+                0x000000e7       0x23 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(core_regs-s.o)
+ .ARM.attributes
+                0x0000010a       0x31 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_frame    0x00000000      0x674
+ .debug_frame   0x00000000       0x28 ../SEQ/src/static_sony_dualexp.o
+ .debug_frame   0x00000028       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_frame   0x00000058      0x3a0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_frame   0x000003f8      0x104 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_frame   0x000004fc      0x178 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_loc      0x00000000    0x10166
+ .debug_loc     0x00000000       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(startup-c.o)
+ .debug_loc     0x00000020     0xd277 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_loc     0x0000d297      0xbaf F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_loc     0x0000de46     0x2320 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)
+
+.debug_ranges   0x00000000     0x1d10
+ .debug_ranges  0x00000000     0x1570 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_main-c.o)
+ .debug_ranges  0x00001570       0x58 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_static-c.o)
+ .debug_ranges  0x000015c8      0x748 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/isp/firmware/build-v234ce-gnu-linux-d\libsequencer.a(seq_int-c.o)

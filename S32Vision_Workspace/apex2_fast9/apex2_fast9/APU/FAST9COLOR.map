@@ -1,0 +1,1410 @@
+Archive member included because of file (symbol)
+
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o)
+                              entry symbol __main_fsl
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (ACF_InitSeqRegPtr)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z11InitSclHeapPal)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z10IoDescInitP15_kernel_io_descP17_ACF_LocalMemDesci)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o) (main)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o) (_Z12apu_til_copyPDv32_hiPKS_iiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o) (RetE0WidthInBytes)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o) (stdout)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fclose.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (fclose)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fflush.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o) (fflush)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fopen.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (fopen)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fread.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (fread)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fwrite.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (fwrite)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (printf)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(errno.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fclose.o) (errno)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem_asm.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (__vmemset_aligned_min2b_mult2b)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(gcc_ctor_dtor.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o) (__fini_cpp)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+                              ./APU_gen/src/FAST9COLOR.o (__smemset)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(runtime-info.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o) (apuGetNumberOfCUs)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(divsi3.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o) (__divsi3)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(modsi3.o)
+                              ./APU_gen/src/FAST9COLOR.o (__modsi3)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(udivsi3.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(divsi3.o) (__udivsi3)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libhosted.a(hosted_io.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fclose.o) (_hosted_clib_io)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o) (_Z11apu_mk_mainv)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o) (apumk_hal_dmem_init)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o) (cmem_if_hal_query_apu_dmem_start)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o) (InitVirtualHwPtrArray)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o) (RetDataTypeSizeInBytes)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (CalcOptimalWordSize)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (RetStreamInPeriphId)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o) (mce_hal_program_nonseq_linkedlist)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (seq_hal_clear_interrupt)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (stio_hal_interruptclear_sti_done)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o) (_Z10cmem_writePDv32_tit)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o) (DMEM_CMD_CNT)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z13apu_gauss_3x315_kernel_io_descS_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o) (_Z13apu_gauss_3x3PDv32_hPKS_iiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z7apu_nms15_kernel_io_descS_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o) (_Z12apu_nms_implPKDv32_hPS_iiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z20apu_saturate_nonzero15_kernel_io_descS_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o) (_Z16saturate_nonzeroPDv32_hS0_iiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z9apu_fast915_kernel_io_descS_S_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o) (_Z28apu_fast9_unsuppressed_scorePKDv32_hPS_iiiih)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z22apu_mark_color_channel15_kernel_io_descS_S_S_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o) (_Z18mark_color_channelPDv32_hS0_S0_iihiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z20apu_rgb_to_grayscale15_kernel_io_descS_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o) (_Z16rgb_to_grayscalePDv32_hPKS_iiii)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+                              ./APU_gen/src/FAST9COLOR.o (_Z18apu_dilate_diamond15_kernel_io_descS_)
+F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+                              F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o) (_Z14dilate_diamondPDv32_hS0_iiii)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./APU_gen/src/FAST9COLOR.o
+ .bss.gNumLogicalTransfersDmemIn
+                0x00000000        0x1 ./APU_gen/src/FAST9COLOR.o
+ .bss.gNumLogicalTransfersDmemOut
+                0x00000000        0x1 ./APU_gen/src/FAST9COLOR.o
+ .bss.gNumLogicalTransfersCmemIn_MCE
+                0x00000000        0x1 ./APU_gen/src/FAST9COLOR.o
+ .bss.gLogicalTransfersDmemIn
+                0x00000000        0x4 ./APU_gen/src/FAST9COLOR.o
+ .bss.gLogicalTransfersDmemOut
+                0x00000000        0x4 ./APU_gen/src/FAST9COLOR.o
+ .bss.gLogicalTransfersCmemIn_MCE
+                0x00000000        0x4 ./APU_gen/src/FAST9COLOR.o
+ .text          0x00000000        0x0 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text._Z17CalcTransferWidthR8_e0_desciii
+                0x00000000       0x94 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_LLE_2DTransferConfig_MEM_MEM
+                0x00000000       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_AppendLLE_DMEM_XMEM
+                0x00000000      0x2c4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_LLE_MCETransferConfig
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_GenLL_MCE
+                0x00000000      0x184 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_2DXFER_XMEM_CMEM
+                0x00000000      0x1e8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.SEQ_INCREMENT_RESOURCE
+                0x00000000       0x14 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text._Z5GroupaaPaP8transfer
+                0x00000000      0x118 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_OrgLogXfer_DmemOnly
+                0x00000000      0x128 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ACF_OrgLogXfer_CmemAndDmem
+                0x00000000      0x214 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text.ConfigureLogicalTransfersMce
+                0x00000000      0x2f0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .data._ZL33gsNullPtrArrayForDummyMceTransfer
+                0x00000000       0x10 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .bss._ZZ20ACF_2DXFER_XMEM_CMEME11lLinkedList
+                0x00000000       0x60 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z11ACF_RET_VAR7ACF_VAR
+                0x00000000       0xd4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z27ACF_PUSH_VEC_BUFFER_TO_FIFO15_kernel_io_descDv32_tS_
+                0x00000000       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z9RetIoDescR17_ACF_LocalMemDescii
+                0x00000000       0xa4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z34ACF_CollectVarLengthScatteredListsi17_ACF_LocalMemDescS_Dv32_tP20_ACF_AdvTransferInfoPmii
+                0x00000000      0x168 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z18PadTopBottomHelperP17_ACF_LocalMemDescPDv32_hiiiiiiiii
+                0x00000000      0x11c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z17PadEdgeCaseHelperP17_ACF_LocalMemDescPDv32_hiiiii
+                0x00000000       0xb4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z30ACF_PAD_08_e0xis1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x298 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z28ACF_PAD_08_e0xnot1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x294 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z31ACF_PAD_08_e0xnot1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x29c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z27ACF_PAD_16_e0xis1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x290 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z30ACF_PAD_16_e0xis1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x298 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z28ACF_PAD_16_e0xnot1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x294 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z31ACF_PAD_16_e0xnot1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x29c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z27ACF_PAD_32_e0xis1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x274 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z30ACF_PAD_32_e0xis1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x298 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z28ACF_PAD_32_e0xnot1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x27c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z31ACF_PAD_32_e0xnot1_LnotequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x00000000      0x2b0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text._Z18RetIoDesc_noinlineP17_ACF_LocalMemDescP15_kernel_io_desc
+                0x00000000       0x50 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_compare_rangePKDv32_hiPKhiiiiiii
+                0x00000000      0x230 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_compare_rangePKDv32_tiPKtiiiiiii
+                0x00000000      0x22c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_32PKDv32_iiPKiiiiiii
+                0x00000000      0x214 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_32PKDv32_jiPKjiiiiii
+                0x00000000      0x214 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_16PKDv32_tiPKtiiiiii
+                0x00000000      0x204 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_16PKDv32_siPKsiiiiii
+                0x00000000      0x20c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_08PKDv32_hiPKhiiiiii
+                0x00000000      0x1fc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_compare_08PKDv32_aiPKaiiiiii
+                0x00000000      0x204 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padver_16PDv32_siiiii
+                0x00000000       0xc0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padver_16PDv32_tiiiii
+                0x00000000       0xc0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padver_08PDv32_aiiiii
+                0x00000000       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padver_08PDv32_hiiiii
+                0x00000000       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_08PhPKhiiii
+                0x00000000      0x1e0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_08PhPKhiiiii
+                0x00000000      0x1e0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_16PtPKtiiii
+                0x00000000      0x1f4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_16PtPKtiiiii
+                0x00000000      0x1ec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_32PjPKjiiii
+                0x00000000      0x1f4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_pad_image_32PjPKjiiiii
+                0x00000000      0x1ec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_32PDv32_iiii
+                0x00000000       0xf8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_32PDv32_jiii
+                0x00000000       0xf8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_16PDv32_siii
+                0x00000000       0xec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_16PDv32_tiii
+                0x00000000       0xec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_08PDv32_aiii
+                0x00000000      0x12c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z16apu_mem_clear_08PDv32_hiii
+                0x00000000      0x12c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_indirect_input_08PDv32_hiPKhiPKiiii
+                0x00000000      0x190 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_indirect_input_08PDv32_hiPKhiPKiii
+                0x00000000      0x164 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_indirect_input_16PDv32_tiPKtiPKiii
+                0x00000000      0x120 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_indirect_input_16PDv32_siPKsiPKiii
+                0x00000000      0x120 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_indirect_input_32PDv32_jiPKjiPKiii
+                0x00000000      0x134 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_32PDv32_iiPKiiiiiii
+                0x00000000      0x218 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_32PDv32_jiPKjiiiiii
+                0x00000000      0x218 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_16PDv32_tiPKtiiiiii
+                0x00000000      0x208 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_16PDv32_siPKsiiiiii
+                0x00000000      0x208 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_08PDv32_hiPKhiiiiii
+                0x00000000      0x200 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_08PDv32_aiPKaiiiiii
+                0x00000000      0x200 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_08PDv32_hiPKhiiiii
+                0x00000000      0x100 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_16PDv32_tiPKtiiiii
+                0x00000000       0xfc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_32PDv32_jiPKjiiiii
+                0x00000000      0x128 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_08PhiPKDv32_hiiiii
+                0x00000000       0xe0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_16PtiPKDv32_tiiiii
+                0x00000000       0xf0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z19apu_til_transfer_32PjiPKDv32_jiiiii
+                0x00000000      0x108 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z9saveImagePcPvmmmh
+                0x00000000       0xc0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z9readImagePcPhmmmh
+                0x00000000       0xc4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padhor_08PDv32_hiiiii
+                0x00000000      0x130 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padhor_16PDv32_tiiiii
+                0x00000000      0x13c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padhor_32PDv32_jiiiii
+                0x00000000      0x158 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z20apu_til_padhor_08_h2PDv32_hiiiii
+                0x00000000      0x1f8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z20apu_til_padhor_16_h2PDv32_tiiiii
+                0x00000000      0x1ec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z20apu_til_padhor_32_h2PDv32_jiiiii
+                0x00000000      0x1dc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padhor_16PDv32_tiiii
+                0x00000000       0xa8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z17apu_til_padhor_32PDv32_jiiii
+                0x00000000       0xbc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z20apu_til_padhor_16_h2PDv32_tiiii
+                0x00000000      0x114 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_padhor_08_e0xPDv32_hiiiiii
+                0x00000000      0x17c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_padhor_16_e0xPDv32_tiiiiii
+                0x00000000      0x170 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_padhor_08_h2_e0xPDv32_hiiiiii
+                0x00000000      0x298 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_padhor_16_h2_e0xPDv32_tiiiiii
+                0x00000000      0x270 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_padhor_08_e0xPDv32_hiiiii
+                0x00000000       0xe8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_padhor_16_e0xPDv32_tiiiii
+                0x00000000       0xdc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_padhor_08_h2_e0xPDv32_hiiiii
+                0x00000000      0x17c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_padhor_16_h2_e0xPDv32_tiiiii
+                0x00000000      0x168 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_copy_right_16_w2PDv32_tiPKS_iiiiS_
+                0x00000000       0x9c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_copy_right_16PDv32_tiPKS_iiiiS_
+                0x00000000       0x7c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z24apu_til_copy_right_08_w2PDv32_hiPKS_iiiiDv32_t
+                0x00000000       0x90 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z21apu_til_copy_right_08PDv32_hiPKS_iiiiDv32_t
+                0x00000000       0x70 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_copy_16_w2PDv32_tiPKS_iiii
+                0x00000000       0x7c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z15apu_til_copy_16PDv32_tiPKS_iiii
+                0x00000000       0x60 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z18apu_til_copy_08_w2PDv32_hiPKS_iiii
+                0x00000000       0x74 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text._Z15apu_til_copy_08PDv32_hiPKS_iiii
+                0x00000000       0x58 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .rodata.str1.1
+                0x00000000       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .text.RetE0DataTypeSizeInBytes
+                0x00000000        0x8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .text.RetE0SizeInBytes
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .text.RetE0Desc
+                0x00000000       0x10 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .text.E0Compare
+                0x00000000       0x94 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+ .data.stdin    0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+ .data.stderr   0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+ .bss.hosted_files
+                0x00000000       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fclose.o)
+ .text.fclose   0x00000000       0x90 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fclose.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fflush.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fopen.o)
+ .text.fopen    0x00000000       0xf0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fopen.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fread.o)
+ .text.fread    0x00000000       0x84 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fread.o)
+ .rodata.str1.1
+                0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fread.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fwrite.o)
+ .text.fwrite   0x00000000       0x88 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fwrite.o)
+ .rodata.str1.1
+                0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fwrite.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x6c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+ .text.vprintf  0x00000000       0x78 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+ .text.fprintf  0x00000000       0x74 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+ .text.printf   0x00000000       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(vfprintf.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(errno.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem_asm.o)
+ .text.__vmemcpy_aligned_min4b_mult2b
+                0x00000000       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem_asm.o)
+ .text.__vmemset_aligned_min2b_mult2b
+                0x00000000       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem_asm.o)
+ .text.__smemset_aligned_mult4b
+                0x00000000       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem_asm.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+ .text.__smemcpy
+                0x00000000       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+ .text.__vmemcpy
+                0x00000000       0x34 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+ .text.__vmemset
+                0x00000000       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(runtime-info.o)
+ .text.apuGetNumberOfCUs
+                0x00000000       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(runtime-info.o)
+ .text.apuQuerySystem
+                0x00000000       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(runtime-info.o)
+ .data.__vecsize
+                0x00000000        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(runtime-info.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(divsi3.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(modsi3.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(udivsi3.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libhosted.a(hosted_io.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text._Z15apu_sim_host_txi
+                0x00000000       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text._Z15apu_sim_host_rxv
+                0x00000000       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text._Z16APU2_MK_MAIN_MEMv
+                0x00000000       0x24 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text._Z21APU2_MK_MAIN_DMEMFIFOi
+                0x00000000      0x1fc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text._Z21APU2_MK_TEST_DMEMFIFOv
+                0x00000000      0x118 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .rodata._ZL10start_addr
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_push_cmd
+                0x00000000       0x60 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_seq_push_wait
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_seq_push_done
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_push_align
+                0x00000000       0x68 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_send_list
+                0x00000000       0xa4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text.apumk_hal_send_cmd
+                0x00000000      0x13c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_set_apu_cfg
+                0x00000000       0x54 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_query_apu_cfg
+                0x00000000       0x88 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_set_apu_pmem_start
+                0x00000000       0x5c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_set_apu_dmem_start
+                0x00000000       0x6c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_query_apu_pmem_start
+                0x00000000       0x54 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.cmem_if_hal_query_apu_dmem_start
+                0x00000000       0x68 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text.RetApuMemSizes
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .rodata..Lswitch.table
+                0x00000000        0xc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .rodata..Lswitch.table.1
+                0x00000000        0xc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .text._Z20MapPhysicalToVirtualmmRm
+                0x00000000        0xc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .text._Z22UnmapVirtualHwPtrArrayv
+                0x00000000      0x1e4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .text.ReturnPhysicalHwPtr
+                0x00000000       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .rodata._ZL20gsPhysicalHwPtrArray
+                0x00000000       0x88 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.DoesChunkWidthSatisfyStreamHwLimits
+                0x00000000       0x54 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.DoesChunkWidthSatisfyMceHwLimits
+                0x00000000       0x14 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.LLE_MCETransferConfig
+                0x00000000      0x1b4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.LLE_1D_Fill
+                0x00000000       0x94 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.LLE_1D_MEM_MEM
+                0x00000000       0x90 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text.LLE_MCE_Finalize
+                0x00000000       0x14 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .text.mcdma_hal_set_memory_fill_words
+                0x00000000       0x54 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .text.mcdma_hal_ch_clear
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .text.mcdma_hal_ch_flush
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_program_linkedlist
+                0x00000000       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_program_nonseq_linkedlist
+                0x00000000       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_enable_ch
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_wait_polling
+                0x00000000       0x48 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_clear_int
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text.mce_hal_clear_ch
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_enable_seq
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_disable_seq
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_scb_enable
+                0x00000000       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_scb_disable
+                0x00000000       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_set_motioncomp_inc
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_set_motioncomp_dec
+                0x00000000       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_mask_interrupts
+                0x00000000       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.seq_hal_query_interrupts
+                0x00000000       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text.RetMceScbId
+                0x00000000       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z9cmem_readPDv32_hi
+                0x00000000       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z9cmem_readPDv32_ti
+                0x00000000       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z10cmem_writePDv32_hih
+                0x00000000       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z18TransferTileToCmemPhPDv32_hiiiiiii
+                0x00000000       0xf4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z18TransferTileToCmemPtPDv32_tiiiiiii
+                0x00000000      0x10c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z21CheckAgainstReferenceiiiiPhPDv32_hi
+                0x00000000      0x24c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z28CheckAgainstReference_YUV422iiiiPtPDv32_ti
+                0x00000000      0x28c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z12SetupPaddingPDv32_hS0_S0_S0_S0_iiii
+                0x00000000      0x190 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z15GenBlockPaddingPDv32_hS0_S0_S0_S0_S0_iiii
+                0x00000000      0x2e0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text._Z25GenBlockPadding_HARDCODEDPDv32_hS0_S0_S0_S0_S0_
+                0x00000000      0x334 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .rodata.str1.1
+                0x00000000       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .text._Z18apumk_apu_com_waitii
+                0x00000000       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .text._Z17apu_kernel_decodePKiiiPiS1_
+                0x00000000       0xb8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .text._Z25apumk_apu_decode_dmemfifov
+                0x00000000        0xc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .text._Z9apu_nms1615_kernel_io_descS_
+                0x00000000       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .text._Z9apu_nms16PKDv32_tPS_iiii
+                0x00000000       0xd0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .text._Z12apu_binarize15_kernel_io_descS_
+                0x00000000       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .text._Z8apu_mask15_kernel_io_descS_S_S_S_
+                0x00000000       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .text._Z8binarizePDv32_hPDv32_jiiii
+                0x00000000       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .text._Z4maskPDv32_sS0_PDv32_jS0_S0_iiii
+                0x00000000       0xc4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .text          0x00000000        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+ .text._Z4vmaxDv32_hS_
+                0x00000000       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+Memory map
+
+
+.text.PMh       0x00000000     0x7704 load address 0x0       
+ .text.__main_fsl
+                0x00000000       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o)
+                0x00000000                __main_fsl
+ .text.__exit_fsl
+                0x00000018       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libstartcpp.a(startup_cpp.o)
+                0x00000018                __exit_fsl
+ .text._Z10FAST9COLORPii
+                0x00000034     0x3ca0 ./APU_gen/src/FAST9COLOR.o
+                0x00000034                FAST9COLOR(int*, int)
+ .text.ACF_LLE_2DTransferConfig_XMEM_CMEM
+                0x00003cd4      0x100 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003cd4                ACF_LLE_2DTransferConfig_XMEM_CMEM
+ .text.ACF_XFER_DMEM_XMEM
+                0x00003dd4       0xe8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003dd4                ACF_XFER_DMEM_XMEM
+ .text.SEQ_INIT_RESOURCE
+                0x00003ebc       0x10 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003ebc                SEQ_INIT_RESOURCE
+ .text.SEQ_ENABLE_SCB
+                0x00003ecc       0x24 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003ecc                SEQ_ENABLE_SCB
+ .text.SEQ_DISABLE_SCB
+                0x00003ef0       0x24 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003ef0                SEQ_DISABLE_SCB
+ .text.SEQ_ENABLE
+                0x00003f14       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003f14                SEQ_ENABLE
+ .text.SEQ_DISABLE
+                0x00003f40       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003f40                SEQ_DISABLE
+ .text.ACF_InitSeqRegPtr
+                0x00003f6c       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003f6c                ACF_InitSeqRegPtr
+ .text.ACF_OrgLogXfer_CmemOnly
+                0x00003f9c      0x13c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00003f9c                ACF_OrgLogXfer_CmemOnly
+ .text.ConfigureLogicalTransfersDma
+                0x000040d8      0x4ac F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x000040d8                ConfigureLogicalTransfersDma
+ .text._Z11InitVecHeapPDv32_hl
+                0x00004584       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+                0x00004584                InitVecHeap(unsigned char __vector(32)*, long)
+ .text._Z11InitSclHeapPal
+                0x000045a0       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+                0x000045a0                InitSclHeap(signed char*, long)
+ .text._Z16AllocFromVecHeapl
+                0x000045bc       0x5c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+                0x000045bc                AllocFromVecHeap(long)
+ .text._Z16AllocFromSclHeapl
+                0x00004618       0x5c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+                0x00004618                AllocFromSclHeap(long)
+ .text._Z10memcpy_intPiS_i
+                0x00004674       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                0x00004674                memcpy_int(int*, int*, int)
+ .text._Z27ACF_PAD_08_e0xis1_LequaltoRP17_ACF_LocalMemDesciiiiiiiiiiiii
+                0x000046ac      0x290 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                0x000046ac                ACF_PAD_08_e0xis1_LequaltoR(_ACF_LocalMemDesc*, int, int, int, int, int, int, int, int, int, int, int, int, int)
+ .text._Z11ACF_COPYBUFP17_ACF_LocalMemDesciiiiii
+                0x0000493c      0x16c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                0x0000493c                ACF_COPYBUF(_ACF_LocalMemDesc*, int, int, int, int, int, int)
+ .text._Z6LmInitP17_ACF_LocalMemDescP25_acf_scenario_buffer_dataN3icp9_DATATYPEEiiiiiiiii
+                0x00004aa8      0x270 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                0x00004aa8                LmInit(_ACF_LocalMemDesc*, _acf_scenario_buffer_data*, icp::_DATATYPE, int, int, int, int, int, int, int, int, int)
+ .text._Z10IoDescInitP15_kernel_io_descP17_ACF_LocalMemDesci
+                0x00004d18       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+                0x00004d18                IoDescInit(_kernel_io_desc*, _ACF_LocalMemDesc*, int)
+ .text.main     0x00004d54        0x8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+                0x00004d54                main
+ .text._Z17apu_til_padhor_08PDv32_hiiii
+                0x00004d5c       0xa4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+                0x00004d5c                apu_til_padhor_08(unsigned char __vector(32)*, int, int, int, int)
+ .text._Z20apu_til_padhor_08_h2PDv32_hiiii
+                0x00004e00      0x104 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+                0x00004e00                apu_til_padhor_08_h2(unsigned char __vector(32)*, int, int, int, int)
+ .text._Z18apu_til_copy_rightPDv32_hiPKS_iiiiDv32_t
+                0x00004f04      0x2f0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+                0x00004f04                apu_til_copy_right(unsigned char __vector(32)*, int, unsigned char __vector(32) const*, int, int, int, int, unsigned short __vector(32))
+ .text._Z12apu_til_copyPDv32_hiPKS_iiii
+                0x000051f4      0x1e0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+                0x000051f4                apu_til_copy(unsigned char __vector(32)*, int, unsigned char __vector(32) const*, int, int, int, int)
+ .text.RetE0WidthInBytes
+                0x000053d4       0x34 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+                0x000053d4                RetE0WidthInBytes
+ .text.fflush   0x00005408       0x78 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(fflush.o)
+                0x00005408                fflush
+ .text.__init_cpp
+                0x00005480       0xf8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(gcc_ctor_dtor.o)
+                0x00005480                __init_cpp
+ .text.__fini_cpp
+                0x00005578       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(gcc_ctor_dtor.o)
+                0x00005578                __fini_cpp
+ .text.__smemset
+                0x00005628       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(mem.o)
+                0x00005628                __smemset
+ .text.__divsi3
+                0x00005650       0x48 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(divsi3.o)
+                0x00005650                __divsi3
+ .text.__modsi3
+                0x00005698       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(modsi3.o)
+                0x00005698                __modsi3
+ .text.__udivsi3
+                0x000056d0       0xd4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/librt.a(udivsi3.o)
+                0x000056d0                __udivsi3
+ .text._hosted_clib_io
+                0x000057a4        0xc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libhosted.a(hosted_io.o)
+                0x000057a4                _hosted_clib_io
+ .text._Z11apu_mk_mainv
+                0x000057b0       0x98 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+                0x000057b0                apu_mk_main()
+ .text.apumk_hal_dmem_init
+                0x00005848       0x88 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+                0x00005848                apumk_hal_dmem_init
+ .text.cmem_if_hal_query_cu_array_width
+                0x000058d0       0x9c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+                0x000058d0                cmem_if_hal_query_cu_array_width
+ .text.InitVirtualHwPtrArray
+                0x0000596c      0x130 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+                0x0000596c                InitVirtualHwPtrArray
+ .text.ReturnVirtualHwPtr
+                0x00005a9c       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+                0x00005a9c                ReturnVirtualHwPtr
+ .text.RetDataTypeSizeInBytes
+                0x00005ab8       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+                0x00005ab8                RetDataTypeSizeInBytes
+ .text.CalcOptimalWordSize
+                0x00005af4       0x70 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                0x00005af4                CalcOptimalWordSize
+ .text.LLE_2DDMATransferConfig_XMEM_CMEM
+                0x00005b64      0x320 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                0x00005b64                LLE_2DDMATransferConfig_XMEM_CMEM
+ .text.LLE_2DDMATransferConfig_MEM_MEM
+                0x00005e84      0x114 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                0x00005e84                LLE_2DDMATransferConfig_MEM_MEM
+ .text.LLE_DMA_Finalize
+                0x00005f98       0x14 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                0x00005f98                LLE_DMA_Finalize
+ .text.LLE_DMA_SetBurstToINCR1
+                0x00005fac       0x14 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+                0x00005fac                LLE_DMA_SetBurstToINCR1
+ .text.mcdma_hal_program_seq_linkedlist
+                0x00005fc0       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00005fc0                mcdma_hal_program_seq_linkedlist
+ .text.mcdma_hal_program_nonseq_linkedlist
+                0x00006004       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00006004                mcdma_hal_program_nonseq_linkedlist
+ .text.mcdma_hal_interruptclear_ch_done
+                0x00006048       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00006048                mcdma_hal_interruptclear_ch_done
+ .text.mcdma_hal_start
+                0x00006080       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00006080                mcdma_hal_start
+ .text.mcdma_hal_wait
+                0x000060bc       0x4c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x000060bc                mcdma_hal_wait
+ .text.RetStreamInPeriphId
+                0x00006108       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00006108                RetStreamInPeriphId
+ .text.RetStreamOutPeriphId
+                0x00006144       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+                0x00006144                RetStreamOutPeriphId
+ .text.seq_hal_set_rsc_counter
+                0x0000615c       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x0000615c                seq_hal_set_rsc_counter
+ .text.seq_hal_ret_rsc_counter
+                0x0000619c       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x0000619c                seq_hal_ret_rsc_counter
+ .text.seq_hal_proc_inc_rscmask
+                0x000061cc       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x000061cc                seq_hal_proc_inc_rscmask
+ .text.seq_hal_proc_dec_rscmask
+                0x0000620c       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x0000620c                seq_hal_proc_dec_rscmask
+ .text.seq_hal_query_interrupt
+                0x0000624c       0x3c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x0000624c                seq_hal_query_interrupt
+ .text.seq_hal_clear_interrupt
+                0x00006288       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x00006288                seq_hal_clear_interrupt
+ .text.seq_hal_set_dma_inc
+                0x000062c0       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x000062c0                seq_hal_set_dma_inc
+ .text.seq_hal_set_dma_dec
+                0x00006300       0x40 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x00006300                seq_hal_set_dma_dec
+ .text.seq_hal_mask_interrupts_apu
+                0x00006340       0x50 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x00006340                seq_hal_mask_interrupts_apu
+ .text.seq_hal_clear_interrupts
+                0x00006390       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+                0x00006390                seq_hal_clear_interrupts
+ .text.stio_hal_interruptclear_sti_done
+                0x000063c0       0x54 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+                0x000063c0                stio_hal_interruptclear_sti_done
+ .text.stio_hal_interruptclear_sto_done
+                0x00006414       0x58 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+                0x00006414                stio_hal_interruptclear_sto_done
+ .text._Z10cmem_writePDv32_tit
+                0x0000646c       0x1c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+                0x0000646c                cmem_write(unsigned short __vector(32)*, int, unsigned short)
+ .text._Z14apumk_cid_initv
+                0x00006488      0x110 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00006488                apumk_cid_init()
+ .text._Z16apumk_apu_com_rxRi
+                0x00006598       0x78 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00006598                apumk_apu_com_rx(int&)
+ .text._Z16apumk_apu_com_txi
+                0x00006610       0x84 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00006610                apumk_apu_com_tx(int)
+ .text._Z15apu_useq_decodePKiiiiPi
+                0x00006694      0x1d0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00006694                apu_useq_decode(int const*, int, int, int, int*)
+ .text._Z16apumk_apu_decodePKiiiPi
+                0x00006864      0x1ac F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00006864                apumk_apu_decode(int const*, int, int, int*)
+ .text._Z13apu_gauss_3x315_kernel_io_descS_
+                0x00006a10       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+                0x00006a10                apu_gauss_3x3(_kernel_io_desc, _kernel_io_desc)
+ .text._Z13apu_gauss_3x3PDv32_hPKS_iiii
+                0x00006a38       0xc4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+                0x00006a38                apu_gauss_3x3(unsigned char __vector(32)*, unsigned char __vector(32) const*, int, int, int, int)
+ .text._Z7apu_nms15_kernel_io_descS_
+                0x00006afc       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+                0x00006afc                apu_nms(_kernel_io_desc, _kernel_io_desc)
+ .text._Z12apu_nms_implPKDv32_hPS_iiii
+                0x00006b24       0xc8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+                0x00006b24                apu_nms_impl(unsigned char __vector(32) const*, unsigned char __vector(32)*, int, int, int, int)
+ .text._Z20apu_saturate_nonzero15_kernel_io_descS_
+                0x00006bec       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+                0x00006bec                apu_saturate_nonzero(_kernel_io_desc, _kernel_io_desc)
+ .text._Z16saturate_nonzeroPDv32_hS0_iiii
+                0x00006c18       0x68 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+                0x00006c18                saturate_nonzero(unsigned char __vector(32)*, unsigned char __vector(32)*, int, int, int, int)
+ .text._Z9apu_fast915_kernel_io_descS_S_
+                0x00006c80       0x34 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+                0x00006c80                apu_fast9(_kernel_io_desc, _kernel_io_desc, _kernel_io_desc)
+ .text._Z28apu_fast9_unsuppressed_scorePKDv32_hPS_iiiih
+                0x00006cb4      0x68c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+                0x00006cb4                apu_fast9_unsuppressed_score(unsigned char __vector(32) const*, unsigned char __vector(32)*, int, int, int, int, unsigned char)
+ .text._Z22apu_mark_color_channel15_kernel_io_descS_S_S_
+                0x00007340       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+                0x00007340                apu_mark_color_channel(_kernel_io_desc, _kernel_io_desc, _kernel_io_desc, _kernel_io_desc)
+ .text._Z18mark_color_channelPDv32_hS0_S0_iihiii
+                0x00007384       0xd4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+                0x00007384                mark_color_channel(unsigned char __vector(32)*, unsigned char __vector(32)*, unsigned char __vector(32)*, int, int, unsigned char, int, int, int)
+ .text._Z20apu_rgb_to_grayscale15_kernel_io_descS_
+                0x00007458       0x34 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+                0x00007458                apu_rgb_to_grayscale(_kernel_io_desc, _kernel_io_desc)
+ .text._Z16rgb_to_grayscalePDv32_hPKS_iiii
+                0x0000748c       0xd4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+                0x0000748c                rgb_to_grayscale(unsigned char __vector(32)*, unsigned char __vector(32) const*, int, int, int, int)
+ .text._Z18apu_dilate_diamond15_kernel_io_descS_
+                0x00007560       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+                0x00007560                apu_dilate_diamond(_kernel_io_desc, _kernel_io_desc)
+ .text._Z14dilate_diamondPDv32_hS0_iiii
+                0x0000758c      0x178 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+                0x0000758c                dilate_diamond(unsigned char __vector(32)*, unsigned char __vector(32)*, int, int, int, int)
+
+.bss1.DMb       0x00000600      0xc00 load address 0x600     
+ .bss.DMEM_SHARED
+                0x00000600       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00000600                DMEM_SHARED
+ .bss.DMEM_CMD_CNT
+                0x00000620       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00000620                DMEM_CMD_CNT
+ .bss.DMEM_CMD_QUE
+                0x00000640      0xbc0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00000640                DMEM_CMD_QUE
+
+.bss2.DMb       0x00001200       0x30 load address 0x1200    
+ .bss.gPerfInfo
+                0x00001200       0x20 ./APU_gen/src/FAST9COLOR.o
+                0x00001200                gPerfInfo
+ .bss.gNumInputIterations
+                0x00001220        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x00001220                gNumInputIterations
+ .bss.gInputIter
+                0x00001224        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x00001224                gInputIter
+ .bss.gProcIter
+                0x00001228        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x00001228                gProcIter
+ .bss.gInputIterMce
+                0x0000122c        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x0000122c                gInputIterMce
+
+.rodata.DMb     0x00001230       0xc8
+ .rodata..L_ZZ10FAST9COLORPiiE16lInputLLBufArray
+                0x00001230        0x8 ./APU_gen/src/FAST9COLOR.o
+ .rodata..L_ZZ10FAST9COLORPiiE17lOutputLLBufArray
+                0x00001238        0x8 ./APU_gen/src/FAST9COLOR.o
+ .rodata..Lswitch.table
+                0x00001240       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ ** merge constants
+                0x00001258       0x20
+ .rodata._ZL14cCircleOffsets
+                0x00001278       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+
+.data.DMb       0x000012f8       0x20 load address 0x12f8    
+ .data.MK_KERNEL_DB
+                0x000012f8        0x4 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+                0x000012f8                MK_KERNEL_DB
+ .data.static_files
+                0x000012fc       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+ .data.stdout   0x00001314        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+                0x00001314                stdout
+
+.bss.DMb        0x00001320      0x7b8 load address 0x1320    
+ .bss.gsACF_FIRST_TILE_FLAG
+                0x00001320        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x00001320                gsACF_FIRST_TILE_FLAG
+ .bss.gsACF_LAST_TILE_FLAG
+                0x00001322        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x00001322                gsACF_LAST_TILE_FLAG
+ .bss.gsACF_TILE_WIDTH_IN_CHUNKS
+                0x00001324        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x00001324                gsACF_TILE_WIDTH_IN_CHUNKS
+ .bss.gsACF_FIRST_CUID
+                0x00001326        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x00001326                gsACF_FIRST_CUID
+ .bss.gsACF_NUM_INPUT_ITERATIONS
+                0x00001328        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x00001328                gsACF_NUM_INPUT_ITERATIONS
+ .bss.gsACF_CU_ARRAY_WIDTH
+                0x0000132a        0x2 ./APU_gen/src/FAST9COLOR.o
+                0x0000132a                gsACF_CU_ARRAY_WIDTH
+ .bss.gProbeStart
+                0x0000132c        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x0000132c                gProbeStart
+ .bss.gProbeA   0x00001330        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x00001330                gProbeA
+ .bss.gProbeB   0x00001334        0x4 ./APU_gen/src/FAST9COLOR.o
+                0x00001334                gProbeB
+ .bss.gAcfInputDescArray
+                0x00001338       0x18 ./APU_gen/src/FAST9COLOR.o
+                0x00001338                gAcfInputDescArray
+ .bss.gAcfStaticInputDescArray
+                0x00001350       0x30 ./APU_gen/src/FAST9COLOR.o
+                0x00001350                gAcfStaticInputDescArray
+ .bss.gAcfOutputDescArray
+                0x00001380       0x18 ./APU_gen/src/FAST9COLOR.o
+                0x00001380                gAcfOutputDescArray
+ .bss.gAcfInputLinkedListMem
+                0x000013a0       0xc0 ./APU_gen/src/FAST9COLOR.o
+                0x000013a0                gAcfInputLinkedListMem
+ .bss.gAcfOutputLinkedListMem
+                0x00001460       0xc0 ./APU_gen/src/FAST9COLOR.o
+                0x00001460                gAcfOutputLinkedListMem
+ .bss.gLocalMemArray
+                0x00001520      0x294 ./APU_gen/src/FAST9COLOR.o
+                0x00001520                gLocalMemArray
+ .bss.gInputLinkedListEntryDatabase
+                0x000017b4       0x1c ./APU_gen/src/FAST9COLOR.o
+                0x000017b4                gInputLinkedListEntryDatabase
+ .bss.gOutputLinkedListEntryDatabase
+                0x000017d0       0x1c ./APU_gen/src/FAST9COLOR.o
+                0x000017d0                gOutputLinkedListEntryDatabase
+ .bss.gAcfKernelIoDescArray
+                0x000017ec      0x130 ./APU_gen/src/FAST9COLOR.o
+                0x000017ec                gAcfKernelIoDescArray
+ .bss.gCbIdxArray_pad
+                0x0000191c       0x16 ./APU_gen/src/FAST9COLOR.o
+                0x0000191c                gCbIdxArray_pad
+ .bss.gNumLogicalTransfersCmemIn
+                0x00001932        0x1 ./APU_gen/src/FAST9COLOR.o
+                0x00001932                gNumLogicalTransfersCmemIn
+ .bss.gNumLogicalTransfersCmemOut
+                0x00001933        0x1 ./APU_gen/src/FAST9COLOR.o
+                0x00001933                gNumLogicalTransfersCmemOut
+ .bss.gLogicalTransfersCmemIn
+                0x00001934       0x1c ./APU_gen/src/FAST9COLOR.o
+                0x00001934                gLogicalTransfersCmemIn
+ .bss.gLogicalTransfersCmemOut
+                0x00001950       0x1c ./APU_gen/src/FAST9COLOR.o
+                0x00001950                gLogicalTransfersCmemOut
+ .bss.gsDmemBaseAddrForDma
+                0x0000196c        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x0000196c                gsDmemBaseAddrForDma
+ .bss.gspSeqRegisters
+                0x00001970        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+                0x00001970                gspSeqRegisters
+ .bss._ZZ18ACF_XFER_DMEM_XMEME11lLinkedList
+                0x00001980       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .bss._ZL10gspVecHeap
+                0x000019a0        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._ZL20gsVecHeapSizeInBytes
+                0x000019a4        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._ZL10gspSclHeap
+                0x000019a8        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._ZL20gsSclHeapSizeInBytes
+                0x000019ac        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._ZL13gVecHeapIndex
+                0x000019b0        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._ZL13gSclHeapIndex
+                0x000019b4        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .bss._hosted_clib_vars
+                0x000019b8       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(apex.io.o)
+                0x000019b8                _hosted_clib_vars
+ .bss.errno     0x000019fc        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/APUC/lib-apex/libc.a(errno.o)
+                0x000019fc                errno
+ .bss._ZL19gsVirtualHwPtrArray
+                0x00001a00       0x44 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .bss._ZL24gsVirtualMappingComplete
+                0x00001a44        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .bss._ZZ18apumk_apu_com_waitiiE8wait_ctr
+                0x00001a48       0x10 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .bss._ZZ15apu_useq_decodePKiiiiPiE9res_array
+                0x00001a58       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+
+.eh_frame       0x00001ad8      0x6f4
+ ** eh_frame    0x00001ad8      0x6f4
+
+.stack.DMb      0x000021cc      0x903
+ ** zero fill   0x000021cc        0x4
+ ** zero fill   0x000021d0      0x8ff
+
+.memstrtab      0x00002ad0        0xd
+ ** string table
+                0x00002ad0        0xd
+
+.tctmemtab      0x00002ae0       0x20 (before compression)
+ ** TCTMEMTAB   0x00000000        0x0
+
+.vdata.VMb      0x00008000      0x100 load address 0x8000    
+ .bss.CID.VMb   0x00008000      0x100 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00008000                CID
+
+.kernel.DMb     0x00010800       0x8c load address 0x10800   
+ .DMEM_KERNEL_NUM
+                0x00010800        0x4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+                0x00010800                DMEM_KERNEL_NUM
+ .DMEM_KERNEL_DB
+                0x00010804       0x88 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+                0x00010804                DMEM_KERNEL_DB
+
+.debug_str      0x00000000     0x9b76
+ ** merge strings
+                0x00000000     0x9b76
+
+.debug_loc      0x00000000    0x172c7
+ .debug_loc     0x00000000     0x1509 ./APU_gen/src/FAST9COLOR.o
+ .debug_loc     0x00001509        0x0 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_loc     0x00001509     0x156f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_loc     0x00002a78       0x62 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_loc     0x00002ada     0x6844 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_loc     0x0000931e        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_loc     0x0000931e     0x964d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_loc     0x0001296b       0xf3 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_loc     0x00012a5e      0x3ce F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_loc     0x00012e2c      0x3cb F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_loc     0x000131f7      0x30b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_loc     0x00013502       0x3e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_loc     0x00013540        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_loc     0x00013540      0xab4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_loc     0x00013ff4      0x2cf F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_loc     0x000142c3      0x1c1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_loc     0x00014484      0x578 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_loc     0x000149fc       0x9d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_loc     0x00014a99      0xce5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_loc     0x0001577e      0x6b6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_loc     0x00015e34       0xa6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_loc     0x00015eda       0x77 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_loc     0x00015f51      0x114 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_loc     0x00016065      0x12c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_loc     0x00016191      0x313 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_loc     0x000164a4      0x194 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_loc     0x00016638       0xb4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_loc     0x000166ec      0x788 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_loc     0x00016e74      0x12f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_loc     0x00016fa3       0xf4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_loc     0x00017097       0xa6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_loc     0x0001713d       0x3a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_loc     0x00017177       0xa6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_loc     0x0001721d       0xaa F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_abbrev   0x00000000     0x2e61
+ .debug_abbrev  0x00000000      0x26e ./APU_gen/src/FAST9COLOR.o
+ .debug_abbrev  0x0000026e       0x80 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_abbrev  0x000002ee      0x341 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_abbrev  0x0000062f       0xc9 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_abbrev  0x000006f8      0x256 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_abbrev  0x0000094e       0x4c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_abbrev  0x0000099a      0x34f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_abbrev  0x00000ce9      0x10f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_abbrev  0x00000df8      0x1d1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_abbrev  0x00000fc9      0x16b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_abbrev  0x00001134      0x160 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_abbrev  0x00001294      0x266 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_abbrev  0x000014fa       0x8b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_abbrev  0x00001585      0x204 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_abbrev  0x00001789      0x225 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_abbrev  0x000019ae      0x140 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_abbrev  0x00001aee      0x164 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_abbrev  0x00001c52      0x149 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_abbrev  0x00001d9b      0x2c2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_abbrev  0x0000205d      0x239 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_abbrev  0x00002296       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_abbrev  0x00002347       0xcb F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_abbrev  0x00002412       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_abbrev  0x000024c3       0xd2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_abbrev  0x00002595       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_abbrev  0x00002646       0xd8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_abbrev  0x0000271e       0xbe F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_abbrev  0x000027dc      0x191 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_abbrev  0x0000296d       0xbe F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_abbrev  0x00002a2b       0xd2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_abbrev  0x00002afd       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_abbrev  0x00002bae       0xd2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_abbrev  0x00002c80       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_abbrev  0x00002d31      0x130 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_info     0x00000000    0x22e5b
+ .debug_info    0x00000000     0x199e ./APU_gen/src/FAST9COLOR.o
+ .debug_info    0x0000199e      0x2d6 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_info    0x00001c74     0x331f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_info    0x00004f93      0x3f8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_info    0x0000538b     0x25ce F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_info    0x00007959      0x275 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_info    0x00007bce     0xa36a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_info    0x00011f38      0x425 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_info    0x0001235d      0x627 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_info    0x00012984      0x6fc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_info    0x00013080      0xbb4 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_info    0x00013c34     0x12bd F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_info    0x00014ef1      0x2c8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_info    0x000151b9      0xf46 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_info    0x000160ff     0x220a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_info    0x00018309      0xd65 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_info    0x0001906e     0x2504 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_info    0x0001b572     0x1297 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_info    0x0001c809     0x1d86 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_info    0x0001e58f      0x99e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_info    0x0001ef2d      0x34e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_info    0x0001f27b      0x3e7 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_info    0x0001f662      0x3d5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_info    0x0001fa37      0x488 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_info    0x0001febf      0x4bd F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_info    0x0002037c      0x55d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_info    0x000208d9      0x36d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_info    0x00020c46      0xbfb F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_info    0x00021841      0x38b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_info    0x00021bcc      0x3d5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_info    0x00021fa1      0x34e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_info    0x000222ef      0x39b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_info    0x0002268a      0x34e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_info    0x000229d8      0x483 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_ranges   0x00000000     0x3028
+ .debug_ranges  0x00000000      0x6b0 ./APU_gen/src/FAST9COLOR.o
+ .debug_ranges  0x000006b0        0x0 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_ranges  0x000006b0      0x348 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_ranges  0x000009f8       0x28 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_ranges  0x00000a20      0x168 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_ranges  0x00000b88        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_ranges  0x00000b88     0x1b48 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_ranges  0x000026d0       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_ranges  0x00002700       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_ranges  0x00002738       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_ranges  0x000027b8       0x48 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_ranges  0x00002800       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_ranges  0x00002830        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_ranges  0x00002830       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_ranges  0x000028e0       0x58 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_ranges  0x00002938       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_ranges  0x00002970       0xa0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_ranges  0x00002a10       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_ranges  0x00002a28      0x290 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_ranges  0x00002cb8       0xb0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_ranges  0x00002d68        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_ranges  0x00002d68        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_ranges  0x00002d68       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_ranges  0x00002d80       0x30 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_ranges  0x00002db0       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_ranges  0x00002dd0       0x38 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_ranges  0x00002e08        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_ranges  0x00002e08      0x168 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_ranges  0x00002f70        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_ranges  0x00002f70       0x18 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_ranges  0x00002f88        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_ranges  0x00002f88       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_ranges  0x00002fa8        0x0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_ranges  0x00002fa8       0x80 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_macinfo  0x00000000       0x22
+ .debug_macinfo
+                0x00000000        0x1 ./APU_gen/src/FAST9COLOR.o
+ .debug_macinfo
+                0x00000001        0x1 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_macinfo
+                0x00000002        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_macinfo
+                0x00000003        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_macinfo
+                0x00000004        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_macinfo
+                0x00000005        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_macinfo
+                0x00000006        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_macinfo
+                0x00000007        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_macinfo
+                0x00000008        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_macinfo
+                0x00000009        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_macinfo
+                0x0000000a        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_macinfo
+                0x0000000b        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_macinfo
+                0x0000000c        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_macinfo
+                0x0000000d        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_macinfo
+                0x0000000e        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_macinfo
+                0x0000000f        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_macinfo
+                0x00000010        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_macinfo
+                0x00000011        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_macinfo
+                0x00000012        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_macinfo
+                0x00000013        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_macinfo
+                0x00000014        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_macinfo
+                0x00000015        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_macinfo
+                0x00000016        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_macinfo
+                0x00000017        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_macinfo
+                0x00000018        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_macinfo
+                0x00000019        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_macinfo
+                0x0000001a        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_macinfo
+                0x0000001b        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_macinfo
+                0x0000001c        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_macinfo
+                0x0000001d        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_macinfo
+                0x0000001e        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_macinfo
+                0x0000001f        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_macinfo
+                0x00000020        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_macinfo
+                0x00000021        0x1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_pubnames
+                0x00000000     0x1f03
+ .debug_pubnames
+                0x00000000      0x4df ./APU_gen/src/FAST9COLOR.o
+ .debug_pubnames
+                0x000004df       0x36 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_pubnames
+                0x00000515      0x2ee F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_pubnames
+                0x00000803       0xd0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_pubnames
+                0x000008d3      0x2c1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_pubnames
+                0x00000b94       0x1b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_pubnames
+                0x00000baf      0x3f9 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_pubnames
+                0x00000fa8       0x7e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_pubnames
+                0x00001026       0xc5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_pubnames
+                0x000010eb       0xc1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_pubnames
+                0x000011ac      0x128 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_pubnames
+                0x000012d4       0xe5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_pubnames
+                0x000013b9       0x35 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_pubnames
+                0x000013ee      0x14c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_pubnames
+                0x0000153a      0x136 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_pubnames
+                0x00001670       0xb1 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_pubnames
+                0x00001721      0x20e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_pubnames
+                0x0000192f       0x5c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_pubnames
+                0x0000198b       0xf0 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_pubnames
+                0x00001a7b      0x174 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_pubnames
+                0x00001bef       0x24 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_pubnames
+                0x00001c13       0x24 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_pubnames
+                0x00001c37       0x2c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_pubnames
+                0x00001c63       0x31 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_pubnames
+                0x00001c94       0x49 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_pubnames
+                0x00001cdd       0x3d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_pubnames
+                0x00001d1a       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_pubnames
+                0x00001d3a       0xca F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_pubnames
+                0x00001e04       0x2d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_pubnames
+                0x00001e31       0x29 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_pubnames
+                0x00001e5a       0x2b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_pubnames
+                0x00001e85       0x27 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_pubnames
+                0x00001eac       0x29 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_pubnames
+                0x00001ed5       0x2e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_pubtypes
+                0x00000000     0x85d3
+ .debug_pubtypes
+                0x00000000      0x47c ./APU_gen/src/FAST9COLOR.o
+ .debug_pubtypes
+                0x0000047c      0x26e ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_pubtypes
+                0x000006ea      0x895 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_pubtypes
+                0x00000f7f      0x281 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_pubtypes
+                0x00001200      0x424 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_pubtypes
+                0x00001624      0x25d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_pubtypes
+                0x00001881      0x448 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_pubtypes
+                0x00001cc9      0x29b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_pubtypes
+                0x00001f64      0x28b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_pubtypes
+                0x000021ef      0x26e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_pubtypes
+                0x0000245d      0x6ec F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_pubtypes
+                0x00002b49      0x365 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_pubtypes
+                0x00002eae      0x27a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_pubtypes
+                0x00003128      0x2ce F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_pubtypes
+                0x000033f6      0xc7e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_pubtypes
+                0x00004074      0x8ea F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_pubtypes
+                0x0000495e      0x724 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_pubtypes
+                0x00005082      0x95b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_pubtypes
+                0x000059dd      0x36b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_pubtypes
+                0x00005d48      0x28c F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_pubtypes
+                0x00005fd4      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_pubtypes
+                0x00006273      0x2a3 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_pubtypes
+                0x00006516      0x2c2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_pubtypes
+                0x000067d8      0x2c2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_pubtypes
+                0x00006a9a      0x2f6 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_pubtypes
+                0x00006d90      0x319 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_pubtypes
+                0x000070a9      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_pubtypes
+                0x00007348      0x2c2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_pubtypes
+                0x0000760a      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_pubtypes
+                0x000078a9      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_pubtypes
+                0x00007b48      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_pubtypes
+                0x00007de7      0x2ae F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_pubtypes
+                0x00008095      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_pubtypes
+                0x00008334      0x29f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_line     0x00000000     0xb455
+ .debug_line    0x00000000     0x1ca1 ./APU_gen/src/FAST9COLOR.o
+ .debug_line    0x00001ca1      0x162 ./APU_gen/src/FAST9COLOR__MKDBstub.o
+ .debug_line    0x00001e03      0xd49 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_hwutilities-cpp.o)
+ .debug_line    0x00002b4c      0x1b2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_line    0x00002cfe     0x1742 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_utilities-cpp.o)
+ .debug_line    0x00004440       0x9e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(mk_main-cpp.o)
+ .debug_line    0x000044de     0x266f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(apu_test_util-cpp.o)
+ .debug_line    0x00006b4d      0x1bc F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_common-cpp.o)
+ .debug_line    0x00006d09      0x36a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_main-cpp.o)
+ .debug_line    0x00007073      0x377 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apumk_hal_cmdque-cpp.o)
+ .debug_line    0x000073ea      0x326 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(cmem_if_hal-cpp.o)
+ .debug_line    0x00007710      0x2a7 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_line    0x000079b7       0xea F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_line    0x00007aa1      0x64f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(linked_list_utilities-cpp.o)
+ .debug_line    0x000080f0      0x3c2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mcdma_hal-cpp.o)
+ .debug_line    0x000084b2      0x26d F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(mce_hal-cpp.o)
+ .debug_line    0x0000871f      0x49a F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(seq_hal-cpp.o)
+ .debug_line    0x00008bb9      0x1a8 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(stio_hal-cpp.o)
+ .debug_line    0x00008d61      0x96e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(util-cpp.o)
+ .debug_line    0x000096cf      0x495 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(apu_mk_lib-cpp.o)
+ .debug_line    0x00009b64      0x15e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_acf-cpp.o)
+ .debug_line    0x00009cc2      0x178 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_line    0x00009e3a      0x175 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_acf-cpp.o)
+ .debug_line    0x00009faf      0x1f2 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(nms_apu-cpp.o)
+ .debug_line    0x0000a1a1      0x1c5 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_acf-cpp.o)
+ .debug_line    0x0000a366      0x1fb F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(saturate_nonzero_apu-cpp.o)
+ .debug_line    0x0000a561      0x159 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_acf-cpp.o)
+ .debug_line    0x0000a6ba      0x439 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_feature_detection_kernels/build-apu-nxp-sa-d/feature_detection_kernels.a(fast9_apu-cpp.o)
+ .debug_line    0x0000aaf3      0x181 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_acf-cpp.o)
+ .debug_line    0x0000ac74      0x17f F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_display_kernels/build-apu-nxp-sa-d/display_kernels.a(mark_color_channel_apu-cpp.o)
+ .debug_line    0x0000adf3      0x16b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_acf-cpp.o)
+ .debug_line    0x0000af5e      0x16e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+ .debug_line    0x0000b0cc      0x16e F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_acf-cpp.o)
+ .debug_line    0x0000b23a      0x21b F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_morphology_kernels/build-apu-nxp-sa-d/morphology_kernels.a(dilate_diamond_apu-cpp.o)
+
+.debug_frame    0x00000000      0x110
+ .debug_frame   0x00000000       0x50 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/acf_target/build-apu-nxp-sa-d/libacf_target.a(acf_memmgmt-cpp.o)
+ .debug_frame   0x00000050       0x60 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(hw_reg_user-cpp.o)
+ .debug_frame   0x000000b0       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/libs/apex/common/build-apu-nxp-sa-d/libapu_common.a(icp_datatype-cpp.o)
+ .debug_frame   0x000000d0       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_filtering_kernels/build-apu-nxp-sa-d/filtering_kernels.a(gauss_3x3_apu-cpp.o)
+ .debug_frame   0x000000f0       0x20 F:\Spring_2021\Embedded_Autonomous_TA\Installations\S32DS_Vision_v2018.R1\eclipse\../S32DS/s32v234_sdk/kernels/apu/sample_conversion_kernels/build-apu-nxp-sa-d/conversion_kernels.a(rgb_to_grayscale_apu-cpp.o)
+
+.note.gnu.gold-version
+                0x00000000       0x1c
+ ** note header
+                0x00000000       0x10
+ ** fill        0x00000010        0x9
+ ** zero fill   0x00000019        0x3
+
+.symtab         0x00000000    0x24260
+ ** symtab      0x00000000    0x24260
+
+.strtab         0x00000000     0x15a4
+ ** string table
+                0x00000000     0x15a4
+
+.shstrtab       0x00000000      0x137
+ ** string table
+                0x00000000      0x137

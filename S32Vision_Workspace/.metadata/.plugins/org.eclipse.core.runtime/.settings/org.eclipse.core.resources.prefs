@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+pathvariable.APEXCV_BASE_LINUX_1_0_0_PATH=F\:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apexcv_base
+pathvariable.APEXCV_PRO_LINUX_1_0_0_PATH=F\:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apexcv_pro
+pathvariable.OPENCV_FOR_BAREBOARD_1_0_0_PATH=F\:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/3rdparty/ocv/standalone-arm64
+pathvariable.OPENCV_FOR_EMULATOR_1_0_0_PATH=F\:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/OpenCV/install
+pathvariable.OPENCV_FOR_LINUX_1_0_0_PATH=F\:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/3rdparty
+version=1

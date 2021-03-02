@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.nxp.s32ds.apu:ApuGraph xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.nxp.s32ds.apu="http://s32ds.nxp.com/apugraph/1.0.0" name="Fast9Color">
+  <kernels name="rgb_to_grayscale_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_conversion_kernels/rgb_to_grayscale.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" graphSource="//@graphSources.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_conversion_kernels/rgb_to_grayscale.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.3/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_conversion_kernels/rgb_to_grayscale.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="fast9_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_feature_detection_kernels/fast9.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="IN_Img" kernelOutput="//@kernels.3/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_feature_detection_kernels/fast9.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelInputs name="IN_Thr" graphSource="//@graphSources.1">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_feature_detection_kernels/fast9.apukernel#//@kernelInfos.0/@portInfos.2"/>
+    </kernelInputs>
+    <kernelOutputs name="OUT_Img" kernelInputs="//@kernels.4/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_feature_detection_kernels/fast9.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="mark_color_channel_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_display_kernels/mark_color_channel.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_IMAGE" graphSource="//@graphSources.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_display_kernels/mark_color_channel.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelInputs name="INPUT_MARKER" kernelOutput="//@kernels.7/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_display_kernels/mark_color_channel.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelInputs>
+    <kernelInputs name="INPUT_CHANNEL_INDEX" graphSource="//@graphSources.2">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_display_kernels/mark_color_channel.apukernel#//@kernelInfos.0/@portInfos.2"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT" graphSinks="//@graphSinks.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_display_kernels/mark_color_channel.apukernel#//@kernelInfos.0/@portInfos.3"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="gauss_3x3_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/gauss_3x3.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" kernelOutput="//@kernels.0/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/gauss_3x3.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.1/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/gauss_3x3.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="nms_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/nms.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" kernelOutput="//@kernels.1/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/nms.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.5/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/nms.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="dilate_diamond_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" kernelOutput="//@kernels.4/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.6/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="dilate_diamond_1">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" kernelOutput="//@kernels.5/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.7/@kernelInputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_morphology_kernels/dilate_diamond.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <kernels name="saturate_nonzero_0">
+    <kernelInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/saturate_nonzero.apukernel#//@kernelInfos.0"/>
+    <kernelInputs name="INPUT_0" kernelOutput="//@kernels.6/@kernelOutputs.0">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/saturate_nonzero.apukernel#//@kernelInfos.0/@portInfos.0"/>
+    </kernelInputs>
+    <kernelOutputs name="OUTPUT_0" kernelInputs="//@kernels.2/@kernelInputs.1">
+      <portInfo href="s32ds://variable/vsdk_kernels/sample_filtering_kernels/saturate_nonzero.apukernel#//@kernelInfos.0/@portInfos.1"/>
+    </kernelOutputs>
+  </kernels>
+  <graphSources name="Input" kernelInputs="//@kernels.0/@kernelInputs.0 //@kernels.2/@kernelInputs.0"/>
+  <graphSources name="Threshold" kernelInputs="//@kernels.1/@kernelInputs.1"/>
+  <graphSources name="MarkColorChannel" kernelInputs="//@kernels.2/@kernelInputs.2"/>
+  <graphSinks name="Output" kernelOutput="//@kernels.2/@kernelOutputs.0"/>
+</com.nxp.s32ds.apu:ApuGraph>

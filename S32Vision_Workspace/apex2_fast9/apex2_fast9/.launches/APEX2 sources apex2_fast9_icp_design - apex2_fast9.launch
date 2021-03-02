@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.nxp.s32ds.mdt.vpt.apex2.core.apex2Emit">
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.emit_graph" value="true"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.emit_host" value="true"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.emit_kernel" value="true"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.emit_test" value="true"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.ignoreValidationResult" value="false"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.output_path" value="${workspace_loc:/apex2_fast9}"/>
+<stringAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.program_path" value="/apex2_fast9_icp_design/model/apex2_fast9.apuprogram"/>
+<booleanAttribute key="com.nxp.s32ds.mdt.vpt.apex2.core.validate" value="false"/>
+</launchConfiguration>

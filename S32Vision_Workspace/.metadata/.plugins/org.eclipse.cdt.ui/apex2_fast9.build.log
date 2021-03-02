@@ -1,0 +1,15 @@
+01:22:18 **** Incremental Build of configuration A53 for project apex2_fast9 ****
+make -j12 all 
+/usr/bin/make --no-print-directory pre-build
+/usr/bin/make check_loadh
+ 
+/usr/bin/make --no-print-directory main-build
+Invoking: Standard S32DS Print Size
+aarch64-linux-gnu-size --format=berkeley apex2_fast9.elf
+   text	   data	    bss	    dec	    hex	filename
+ 334089	   2500	   1176	 337765	  52765	apex2_fast9.elf
+Finished building: apex2_fast9.siz
+ 
+
+01:22:18 Build Finished (took 404ms)
+

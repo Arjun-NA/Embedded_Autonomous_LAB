@@ -1,0 +1,21 @@
+-DCGV_FORCE_INLINE
+-DACF_KERNEL_IMPLEMENTATION
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/kernels/apu"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/common/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/icp/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/acf_offline/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/drivers/user/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/register_maps/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/acf/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/apex/acf_target/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Installations/S32DS_Vision_v2018.R1/S32DS/s32v234_sdk/libs/utils/common/include"
+-I"F:/Spring_2021/Embedded_Autonomous_TA/Current/S32Vision_Workspace/apex2_fast9/apex2_fast9/APU_kernels"
+-includeapu2_kernel_port.h
+-includeacf_autokernel_inc.h
+-O3
+-g3
+-Wall
+-c
+-fmessage-length=0
+-target apex

@@ -1,0 +1,22 @@
+01:12:58 **** Incremental Build of configuration ISP for project isp_sonyimx224_rgb_yuv_gs8_n ****
+make -j12 all 
+/usr/bin/make --no-print-directory pre-build
+rm -f ../A53_gen/inc/kmem_sym.h ../A53_gen/src/kmem.c ../ISP/*.elf
+ 
+/usr/bin/make --no-print-directory main-build
+Building target: isp_sonyimx224_rgb_yuv_gs8_n_ISP.elf
+Invoking: S32V ISP C++ Linker
+arm-none-eabi-ld -o "isp_sonyimx224_rgb_yuv_gs8_n_ISP.elf" "@isp_sonyimx224_rgb_yuv_gs8_n_ISP.args"
+Finished building target: isp_sonyimx224_rgb_yuv_gs8_n_ISP.elf
+ 
+/usr/bin/make --no-print-directory post-build
+/usr/bin/make -f ../Project_Settings/Scripts/isp_kmem.mk ProjName=isp_sonyimx224_rgb_yuv_gs8_n
+
+Generating: kmem_sym.h
+Generating: kmem.srec
+Generating: kmem.c
+
+ 
+
+01:12:59 Build Finished (took 809ms)
+
