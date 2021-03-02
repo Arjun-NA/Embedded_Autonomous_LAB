@@ -1,7 +1,0 @@
-The demo shows how to operate the Sony camera in dual exposure mode (long and short exposure). 
-The exposures are combined into HDR using tone mapping and the result is display using the DCU. 
-AEC and channel gain control (white balancing) is included as well. 
-
-Requirements: Sony imx224 camera attached to Mipi CSI0 interface. 
-S32V234 board with Linux.
-
